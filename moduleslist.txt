@@ -1,0 +1,7 @@
+Modules to be downloaded before running programme.
+tkinter- its basically already built in latest versions of python but if you are facing issues kindly once prefer downloading it.
+mysql.connector
+rest every other is already 
+Font
+webbrowser
+
